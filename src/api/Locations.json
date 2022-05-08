@@ -1,0 +1,418 @@
+[
+    {
+        "id": "11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+        "name": "Irontown",
+        "image" : "https://i.pinimg.com/originals/b6/51/a7/b651a7fbbdc2241cad7b2701558da064.jpg",
+        "climate": "Continental",
+        "film" :"Princess Mononoke",
+        "who" : "Irontown (タタラ場, Tataraba) is a small settlement in Studio Ghibli's film Princess Mononoke and one of the primary settings. Ruled by Lady Eboshi, it is protected by a lake on one side and high walls surrounding its entirety.",
+        "plot": "Lady Eboshi's militarism has resulted in an ideological clash with the rulers of the neighboring forest, resulting in San's repeated assassination attempts on her. Ashitaka arrives in town in the middle of this conflict and becomes fairly popular while working to help settle the dispute. Eventually, Irontown is destroyed by the Nightwalker. However Ashitaka goes back to Irontown with the rest of the people and helps them rebuild it. He decides to live there too so that he is able to visit San.",
+        "terrain": "Mountain",
+        "Inhabitants" : "The Irontown is a fortress, where drovers are essential for food supply. They also carry ore from the mining to the fortress, where women use pair of bellows to pour iron. The blacksmiths forge rifles and cannons out of iron. The Irontown has many enemies, because Lady Eboshi rip off the Cedar Forest for resources and she became powerful due to her gun power. To fight the enemies on day and night, Irontown Guardians patrol on the wall. Many inhabitants were prostitutes or discards[1]. Lady Eboshi gave them a living and a workplace. She saved many lives from starvation and disgrace. So the people in the Irontown respect her for helping homeless people. They will risk their life to protect Lady Eboshi by any means[2]. ",
+        "surface_water": "40",
+        "residents": [
+          "https://ghibliapi.herokuapp.com/people/ba924631-068e-4436-b6de-f3283fa848f0",
+          "https://ghibliapi.herokuapp.com/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/11014596-71b0-4b3e-b8c0-1c4b15f28b9a"
+      },
+      {
+        "id": "64a996aa-481e-4627-9624-ab23f59a05a9",
+        "image" : "https://i.pinimg.com/originals/4e/db/3a/4edb3ac53c586f9f8044eaacf2f20d09.jpg",
+        "film" : "Kiki's Delivery Service",
+        "name": "Gutiokipanja",
+        "who" : "Gütiokipänjä (グーチョキパン店 , Gūchokipan-ten), pronounced Guchokipanya), is a bakery in Koriko owned and operated by Osono and her husband Fukuo, as seen in the film, Kiki's Delivery Service.",
+        "plot" : "Kiki first sees Gütiokipänjä when travelling through Koriko on her first day. She rests at the balcony outside the bakery when Osono runs out with a pacifier a customer dropped. Kiki offers to get the pacifier back to the baby, so she takes the pacifier and jumps over the balcony, and Osono is shocked, until she sees Kiki flying on her broomstick. Kiki then takes the pacifier to the woman for her baby, and returns to Osono, who offers her a hot beverage. They talk about Kiki's being a witch and Kiki told her she came to Koriko for a year as part of her witch training. Osono says Kiki can stay with her and her husband for a while, but she has to help out at the bakery to pay her rent.",
+        "Inhabitants" : "A bakery named Bokcaféet Porten found on Östra Tullgränd, Visby, Sweden helped inspire the film's setting. According to background artist Hiroshi Ono, The bakery was based on the setting, but we didn't really encounter any wooden structures during our research trip. I was impressed by the chimneys that turn the wind direction so I use that for the bakery chimney.[1] Katsuya Kondō also contributed several image boards of everyday life in the bakery.",
+        "climate": "Continental",
+        "terrain": "Hill",
+        "surface_water": "50",
+        "residents": [
+          "https://ghibliapi.herokuapp.com/people/ba924631-068e-4436-b6de-f3283fa848f0",
+          "https://ghibliapi.herokuapp.com/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/64a996aa-481e-4627-9624-ab23f59a05a9"
+      },
+      {
+        "id": "a8bd9c03-7c80-4a97-b7c0-6a668acaf576",
+        "film" :"The Cat Returns",
+        "image" : "https://i.pinimg.com/originals/90/55/c9/9055c922d40c634fcb85ba4eaafec62f.jpg",
+        "name": "The Cat Kingdom",
+        "who" : "The Cat Kingdom is a world parallel to the human world, simply inhabited by cats. The Cat King rules the Cat Kingdom. Common cats don't wear clothes, except for noble cats. The cats eat mice and fish. At the castle, the variety of food is much bigger.",
+        "climate": "Continental",
+        "terrain": "Plain",
+        "surface_water": "30",
+        "residents": [
+          "https://ghibliapi.herokuapp.com/people/6b3facea-ea33-47b1-96ce-3fc737b119b8",
+          "https://ghibliapi.herokuapp.com/people/3042818d-a8bb-4cba-8180-c19249822d57",
+          "https://ghibliapi.herokuapp.com/people/58d1973f-f247-47d7-9358-e56cb0d2b5a6",
+          "https://ghibliapi.herokuapp.com/people/a3d8e70f-46a0-4e5a-b850-db01620d6b92",
+          "https://ghibliapi.herokuapp.com/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/a8bd9c03-7c80-4a97-b7c0-6a668acaf576"
+      },
+      {
+        "id": "56e423c4-d9a1-44c4-8bdb-1cab45fbf63e",
+        "film" : "When Marnie Was There",
+        "image" : "https://pbs.twimg.com/media/DU1LXKBX4AEGUfc.jpg",
+        "name": "The Marsh House",
+        "who" : "The Marsh House is an abandoned house from the film When Marnie Was There. Marnie was born there, and lived there for most of her childhood. The Doi family moved in around the time Anna was visiting. Sayaka is part of the Doi family, and the house has Sayaka's Bedroom.",
+        "plot" : "Anna Sasaki first spots the Marsh House while she is exploring the town. As she approaches the marsh, she notices an abandoned home. Later Anna dreams about a blonde girl, who is actually Marnie, the girl who lives in the Marsh House. Later the Marsh House is renovated by a new family, the Doi family. A girl named Sayaka moves in, who discovers Marnie's diary.",
+        "climate": "Mild",
+        "terrain": "Marsh",
+        "surface_water": "60",
+        "residents": [
+          
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/5fdfb320-2a02-49a7-94ff-5ca418cae602"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/56e423c4-d9a1-44c4-8bdb-1cab45fbf63e"
+      },
+      {
+        "id": "660c8c91-bd92-43db-b475-b2df6ca96fec",
+        "film" : "My Neighbor Totoro",
+        "image" : "https://i.pinimg.com/originals/3c/42/a8/3c42a80b8849bb8478714c74b14c806e.jpg",
+        "name": " Shichikokuyama Hospital",
+        "who" : "The Hospital is a recurring setting in My Neighbor Totoro. There, Mei and Satsuki's mother Yasuko Kusakabe is a patient while she is sick. She stays at the hospital throughout the entire film, but does return home during the end credits. It is thought that she is staying there due to the presence of tuberculosis. The hospital is revealed at the end of the movie when Satsuki and Mei arrive with Catbus. They are seen hiding in a tree while her mother and father talk.",
+        "plot" : "The film takes place in Sayama Hills (狭山丘陵) where also Hachikokuyama Hospital (八国山病院) or 新山手病院 is, which is believed to be the model of the hospital where Yasuko is: Shichikokuyama Hospital (七国山病院).",
+        "climate": "Continental",
+        "terrain": "Hill",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/660c8c91-bd92-43db-b475-b2df6ca96fec"
+      },
+      {
+        "id": "6ba60a86-7c74-4ec4-a6f4-7112b5705a2f",
+        "film" : "Castle in the Sky",
+        "image" : "https://64.media.tumblr.com/c99945e2958dae26fc4246d63168344c/tumblr_n22z7guPtp1s5fpnwo1_1280.jpg",
+        "name": "Gondoa",
+        "who" : "Gondoa is a location as seen in film Castle in the Sky. One of the film's main protagonists, Sheeta was born here.",
+        "plot" : "In the film, there are two flashbacks taking place in the valley. The first is an instance of narration, showing Sheeta wandering out from her home, accompanied by several beasts of burden, as she tells Pazu where she's from and what happened to her. When she explains that a group of men came and took her away, she is shown watching in confusion as Muska and three of his fellow agents approach the home from lower in the valley. Later, when Sheeta is a prisoner at Fort Tedus, there is another flashback in which a younger, weeping Sheeta wanders home through the fields (the implication perhaps being that she got lost or a bit hurt). Her grandmother comforts her, and teaches her a spell to help her when she's in trouble.",
+        "climate": "TODO",
+        "terrain": "TODO",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/6ba60a86-7c74-4ec4-a6f4-7112b5705a2f"
+      },
+      {
+        "id": "fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2",
+        "film" : "Kiki's Delivery Service",
+        "image" : "https://i.pinimg.com/originals/77/4e/64/774e64c669eed80fbf91fbee0f8f90eb.jpg",
+        "name": "Ursula's Log Cabin",
+        "who" : "Ursula's Log Cabin (森の小屋 , Mori Nokoya), also known as Ursula's Atelier is Ursula's forest retreat near the city of Koriko, as seen in the film Kiki's Delivery Service.",
+        "plot" : "Kiki stumbles upon Ursula's cabin after trying to find the missing gift for Ket and his dog Jeff. It is here that Kiki and Ursula find solace and solidarity from the outside world. The cabin is filled with books, painting canvases and materials and other amenities.",
+        "climate": "TODO",
+        "terrain": "TODO",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2"
+      },
+      {
+        "id": "a072ec53-0467-4fac-864f-df234f9c4315",
+        "film" : "Spirited Away",
+        "image" : "https://i.pinimg.com/originals/8a/8d/24/8a8d24cfcb401806d84f0b9b1b17c9fe.jpg",
+        "name": "Zeniba's Cottage",
+        "who" : "Zeniba's Cottage (銭婆の家) is located in Swamp Bottom.",
+        "plot" : "Zeniba's home is a cozy, one-story, cottage down by Swamp Bottom. The interiors are done in a simply, western-style, contrasting her sister's more opulent apartment and office. Additionally, unlike her sister, Zeniba applies her magic on inanimate objects to help with her day-to-day activities. No-Face decides to settle here after Chihiro leaves to return to the Bathhouse",
+        "climate": "TODO",
+        "terrain": "TODO",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/a072ec53-0467-4fac-864f-df234f9c4315"
+      },
+      {
+        "id": "682df5c3-b09e-46af-94d1-ae0d17f9b4b6",
+        "image" : "https://www.joylesscreatures.com/uploads/2/4/0/6/24065305/4767902_orig.jpg",
+        "name": "Bamboo Forest",
+        "film" : "The Tale of the Princess Kaguya",
+        "who" : "Bamboo Forest is a location as seen in The Tale of the Princess Kaguya. The forest is located near the Village in the Woods. Sanuki no Miyatsuko works here everyday to cut bamboos. He makes a lot of different things out of it. The cottage of his family is at the bottom of a mountain. There is a forest border to the bamboo forest.",
+        "plot" : "Someday he found a glowing bamboo on his way back to his home. He approaches to it, because he couldn't suppress his curiosity towards it. In his lifetime he finds glowing bamboos two more times: 1- He discovers a miniature girl inside a glowing bamboo shoot. 2- He comes upon gold and fine cloth in the bamboo grove in the same way he found his daughter. He takes these as proof of her divine royalty and begins planning to make her a proper princess.",
+        "climate": "Tropical",
+        "terrain": "Forest",
+        "surface_water": "10",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/45204234-adfd-45cb-a505-a8e7a676b114",
+          "https://ghibliapi.herokuapp.com/films/578ae244-7750-4d9f-867b-f3cd3d6fecf4"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/682df5c3-b09e-46af-94d1-ae0d17f9b4b6"
+      },
+      {
+        "id": "26361a2c-32c6-4bd5-ae9c-8e40e17ae28d",
+        "name": "Castle in the Sky",
+        "film" : "",
+        "image" : "https://catsandchocolate.files.wordpress.com/2016/09/laputa7.png?w=740",
+        "climate": "Dry",
+        "terrain": "Hill",
+        "surface_water": "0",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/26361a2c-32c6-4bd5-ae9c-8e40e17ae28d"
+      },
+      {
+        "id": "42f787d8-1fcb-4d3d-82f2-a74409869368",
+        "film" : "Whisper of the Heart",
+        "image" : "https://pbs.twimg.com/media/ERQsUUyXsAIV0zs.jpg:large",
+        "name": "Shizuku's Apartment",
+        "who" : "Shizuku's Apartment is the home of the Tsukishima Family in the Studio Ghibli film Whisper of the Heart.",
+        "plot" : "Shizuku's room is the most featured room, which she shares with her sister, Shiho. Shizuku is mainly seen writing in her room, so she spends the most time at her desk, sometimes even sleeping at it. The kitchen is also featured as a small and fairly dark room where the family eat. Leading off from the kitchen is a workroom where Shizuku's parents work.",
+        "climate": "Continental",
+        "terrain": "City",
+        "surface_water": "0",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/42f787d8-1fcb-4d3d-82f2-a74409869368"
+      },
+      {
+        "id": "0fafa7a3-64c1-43fe-881b-ecb605c01e09",
+        "film" : "Castle in the Sky",
+        "image" : "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/field/image/castillo-volador-laputa-miyazaki2.jpg",
+        "name": "Laputa",
+        "who" : "Laputa (ラピュタ, Rapyuta) is the setting of the latter part of Castle in the Sky. As the name of the film suggests, Laputa is an immense castle floating on an island in the sky. The opening credits showcase the development of the technology by which this is possible.",
+        "plot" : "The film's protagonist, Pazu, has a photograph his father took when he glimpsed the almost mythical place. Because his father died still trying to prove Laputa's existence, Pazu dreams of finding it and proving his father right. Along with Sheeta, a young girl who is the rightful heir to the throne of Laputa, Pazu eventually succeeds in his goal. However, thanks to the pursuit of Captain Dola and her gang of air pirates, and government agent Colonel Muska, and the subsequent events that take place there, much of the structure of Laputa is destroyed. The remaining, natural part of the island floats away to drift over the Earth undisturbed.",
+        "climate": "Continental",
+        "terrain": "City",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/0fafa7a3-64c1-43fe-881b-ecb605c01e09"
+      },
+      {
+        "id": "0132f7f6-fd52-4ac3-b5df-c96b609f77b6",
+        "film" : "Castle in the Sky",
+        "image" : "https://i.pinimg.com/originals/2c/3e/be/2c3ebee958c237eaf7fb37f38a30da09.jpg",
+        "name": "Tedis",
+        "climate": "Continental",
+        "terrain": "Hill",
+        "surface_water": "30",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/0132f7f6-fd52-4ac3-b5df-c96b609f77b6"
+      },
+      {
+        "id": "c57fb2cb-ea85-4d73-8808-cf5dcd28c22e",
+        "film" : "Kiki's Delivery Service",
+        "image" : "https://images.adsttc.com/media/images/617c/4788/1239/130b/f29b/7e25/newsletter/koriko.jpg?1635534735",
+        "name": "Koriko",
+        "climate": "Mild",
+        "terrain": "Hill",
+        "surface_water": "50",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/c57fb2cb-ea85-4d73-8808-cf5dcd28c22e"
+      },
+      {
+        "id": "615aa48d-8673-4117-b35a-79cb67af1897",
+        "image" : "https://c4.wallpaperflare.com/wallpaper/375/950/354/studio-ghibli-forest-green-background-trees-hd-wallpaper-preview.jpg",
+        "name": "Forest",
+        "film" : "Princess Mononoke",
+        "climate": "Tropical",
+        "terrain": "Forest",
+        "surface_water": "60",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/615aa48d-8673-4117-b35a-79cb67af1897"
+      },
+      {
+        "id": "37d13a96-a03a-451d-8871-80be0495486e",
+        "image" : "https://studioghiblimovies.com/wp-content/uploads/2018/01/Bathhouse-Spirted-Away-620x330.png",
+        "name": "Bathhouse",
+        "film" : "Spirited Away",
+        "climate": "Continental",
+        "terrain": "River",
+        "surface_water": "70",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/37d13a96-a03a-451d-8871-80be0495486e"
+      },
+      {
+        "id": "6fc21b76-78fb-4451-98f7-857e32a23e85",
+        "image" : "https://i.pinimg.com/600x315/41/59/1a/41591aab8046d51a88893dccae1b1a6b.jpg",
+        "name": "Matsugo",
+        "film" : "My Neighbor Totoro",
+        "climate": "Continental",
+        "terrain": "River",
+        "surface_water": "60",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/6fc21b76-78fb-4451-98f7-857e32a23e85"
+      },
+      {
+        "id": "dbeeaecb-7817-4b8b-90ca-edc432d3033e",
+        "image" : "https://i.pinimg.com/736x/08/f6/7a/08f67a2403c0385dd2117d175f55ff44--only-yesterday-film-stills.jpg",
+        "name": "Taeko's House",
+        "film" : "Only Yesterday",
+        "climate": "Continental",
+        "terrain": "River",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/4e236f34-b981-41c3-8c65-f8c9000b94e7"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/dbeeaecb-7817-4b8b-90ca-edc432d3033e"
+      },
+      {
+        "id": "34df8f25-8f80-4823-8f01-bf9852039987",
+        "image" : "https://64.media.tumblr.com/7d28d6a7458a9552869fec810d619474/tumblr_p1l4evCnBK1qa9gmgo5_1280.jpg",
+        "name": "Piccolo S.P.A.",
+        "climate": "Continental",
+        "film" : "Porco Rosso",
+        "terrain": "River",
+        "surface_water": "40",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/34df8f25-8f80-4823-8f01-bf9852039987"
+      },
+      {
+        "id": "62346d33-caa0-4c17-8016-0aca56f3066b",
+        "image" : "https://i.pinimg.com/originals/8e/4e/09/8e4e09c373cf12f17d884754e45b6698.png",
+        "name": "Karikiya",
+        "film" : "Kiki's Delivery Service",
+        "climate": "Mild",
+        "terrain": "City",
+        "surface_water": "30",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/62346d33-caa0-4c17-8016-0aca56f3066b"
+      },
+      {
+        "id": "ee897b2a-405e-42b9-bff4-8b51b0f03cab",
+        "image" : "https://vg5b2ejdwb-flywheel.netdna-ssl.com/wp-content/uploads/2021/03/ghiblicraft-alan-becker-totoro-mincraft-video-04.jpg",
+        "name": "Satsuki's School House",
+        "film" : "My Neighbor Totoro",
+        "climate": "Mild",
+        "terrain": "River",
+        "surface_water": "60",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/ee897b2a-405e-42b9-bff4-8b51b0f03cab"
+      },
+      {
+        "id": "90241c46-d4be-411f-b00a-7561b9dda7b6",
+        "image" : "https://i.pinimg.com/originals/fd/73/bd/fd73bdf082736a5913d767af295e442a.jpg",
+        "name": "Fujimoto's Underwater Harbor",
+        "climate": "Wet",
+        "film" : "Ponyo",
+        "terrain": "Ocean",
+        "surface_water": "100",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/758bf02e-3122-46e0-884e-67cf83df1786"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/90241c46-d4be-411f-b00a-7561b9dda7b6"
+      },
+      {
+        "id": "469b14bd-5565-4436-bbed-c2036f42cc99",
+        "name": "Himawari Nursery School",
+        "film" : "Ponyo",
+        "image" :"https://pbs.twimg.com/media/EXf3DAPVcAEg1IO.jpg:large",
+        "climate": "Mild",
+        "terrain": "Ocean",
+        "surface_water": "50",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/758bf02e-3122-46e0-884e-67cf83df1786"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/469b14bd-5565-4436-bbed-c2036f42cc99"
+      },
+      {
+        "id": "b6bac992-a858-4d57-8477-9652d73caaa1",
+        
+        "name": "Ingary",
+        "image" : "https://filmschoolrejects.com/wp-content/uploads/2020/09/Howls-Moving-Castle.jpg",
+        "climate": "Mild",
+        "film" : "Howl's Moving Castle",
+        "terrain": "Hill",
+        "surface_water": "30",
+        "residents": [
+          "TODO"
+        ],
+        "films": [
+          "https://ghibliapi.herokuapp.com/films/cd3d059c-09f4-4ff3-8d63-bc765a5184fa"
+        ],
+        "url": "https://ghibliapi.herokuapp.com/locations/b6bac992-a858-4d57-8477-9652d73caaa1"
+      }
+    
+    ]

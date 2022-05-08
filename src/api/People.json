@@ -1,0 +1,831 @@
+[
+    {
+      "id": "267649ac-fb1b-11eb-9a03-0242ac130003",
+      "who" : "Nigihayami Kohakunushi (ニギハヤミ コハクヌシ , Nigihayami Kohakunushi, lit. God of the Swift Amber River), referred throughout most of the film by the name Yubaba gives him: Haku (ハク, haku), is the deuteragonist in the 2001 animated film Spirited Away.",
+      "apariencia" : "Haku appears to be around 12 years old in physical age. He has straight, dark green hair in a bob haircut and slanted, green eyes. When he is human, Haku wears a traditional white robe that resembles closely a Kariginu tied with a lavender sash, a short traditional indigo dyed Sashinuki (a type of kuribakama) underneath, and beige sandals. A darker blue Hitoe can be seen from the sides and shoulders of the robes. When he transforms into his dragon form, he has a teal and mint green mane, with a white, scaled body.",
+      "history" : "Haku first appears when Chihiro is on the bridge to the Bathhouse. At this, he quickly tells to her to get out of the town and get back across the river before nightfall. But when Chihiro fails to do this, she runs off in a panic. Haku then goes to search for her and when Chihiro realizes she is becoming invisible, he gives her something to eat so she won't disappear. Haku then unbinds her when her legs become stuck and takes her to the bath house. Then, he helps her cross the bridge and in the garden outback, he tells her that she needs to get a job to survive from Kamajī, the boiler man. After Chihiro succeeds in getting a job, Haku then hands her off to Lin. The next morning, he takes her to her parents, who have been turned into pigs. Haku then warns Chihiro that if she forgets her real name like he forgot his, then she will be trapped in the spirit world forever. That moment was when Chihiro knew that she could trust him. Then, Haku leaves and comes back days later, gravely injured by paper birds and blood dripping from his body, in dragon form. Now, Haku ends up in Yubaba's office bleeding and close to death. Having Chihiro on his back, they end up falling down a shaft and into the boiler room with Kamaji. Then, while Chihiro is off returning the seal that Haku allegedly stole, he tells Yubaba that he will get her son back and flies off to Zeniba's (Yubaba's twin sister). Yubaba agreed to let Chihiro, but she needed to test her. Zeniba then tells them that only true love can break the curse. Flying in the night with Chihiro on his back, Chihiro tells him that when she was little she fell into a river to retrieve a little pink shoe and that she thought she would drown, but, he saved her. She continues and says the river's name was the Kohaku river, thus; revealing his real name. Both of them return to the bath house and they say their good-byes at the river which has now been filled in.",
+      "name": "Haku",
+      "gender": "Male",
+      "image":"https://i.pinimg.com/736x/7d/6b/78/7d6b783fffac9fe19aed920d92be6cf2.jpg",
+      "age": "12",
+      "eye_color": "Green",
+      "hair_color": "Green",
+      "film" : "Spirited Away",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/e2cfaa78-fb19-11eb-9a03-0242ac130003",
+      "url": "https://ghibliapi.herokuapp.com/people/267649ac-fb1b-11eb-9a03-0242ac130003"
+    },
+    {
+      "id": "fe93adf2-2f3a-4ec4-9f68-5422f1b87c01",
+      "who" : "Pazu (パズー) is one of the primary protagonists of Castle in the Sky and becomes Sheeta's close friend after she lands in the mining city he lives in. It is implied that he develops romantic feelings for her.",
+      "apariencia" : "Pazu has brown hair and brown eyes. He wears a white shirt and orange vest, blue pants that are patched at the knee, a yellow cap and brown laced boots. After joining Dola's gang, he also sports a pair of aviator goggles.",
+      "history" : "Pazu is an orphan who lives alone in a small hut atop a hill in Slag Ravine. While no mention is made of his mother, his father was an avid aviator who, though no one had believed him, had previously discovered and photographed the floating kingdom of Laputa. After his death, Pazu swore that he would find Laputa and prove his father right. Late one evening, Pazu discovers Sheeta floating down from the sky. After being unsuccessful in his attempt to tell his boss of her appearance, he takes her home and cares for her until she wakes. The two become fast friends, and he tells her of his plans to finish an ornithopter and set off to find Laputa. It is not long after this, however, that the Dola airpirate gang arrive in Slag Ravine, searching for Sheeta and her mysterious crystal. Pazu helps Sheeta escape the town and her pursuers (both the Dola Gang, and the military, led by Colonel Muska) leading to the pair use the power of the necklace to descend into an abandoned mine. There, Sheeta explains where she's from and how she was kidnapped by the military, and Pazu promises to stay by her side. They come across Uncle Pom, who tells the pair of a long-lost element known as Aetherium, which Sheeta's crystal is fashioned from, bringing about the revelation that Laputa must indeed exist as they were the only ones who knew how to make such crystals. Upon leaving the mine, Pazu and Sheeta are captured by the military and separated, with Pazu being locked away in a tower cell at Tedus Fort. He is set free, however, when Sheeta makes a deal with the military to stay and help find Laputa in exchange for his release. Hurt by her decision, Pazu returns home, only to discover that Dola's gang have taken over his home as a temporary base. After Dola points out that Sheeta likely saved his life by sending him away, Pazu asks to join them to rescue her, vowing to protect her properly this time. Dola accepts this, and the group heads for Tedus. Once there, however, they discover it in flames, and Sheeta clinging to a Laputian robot atop one of the towers. Pazu and Dola manage to rescue her, and he asks if they can continue to sail with the gang until they find Laputa.",
+      "image" : "https://i.pinimg.com/474x/bd/6e/23/bd6e23aabaa54edd8be748b809269a14.jpg",
+      "name": "Pazu",
+      "film" : "Castle in the Sky",
+      "gender": "Male",
+      "age": "13",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/fe93adf2-2f3a-4ec4-9f68-5422f1b87c01"
+    },
+    {
+      "id": "598f7048-74ff-41e0-92ef-87dc1ad980a9",
+      "name": "Lusheeta Toel Ul Laputa",
+      "who" : "Sheeta (シータ, Shīta), born Lusheeta Toel Ul Laputa (リュシータ・トエル・ウル・ラピュタ , Ryushīta Toeru Uru Rapyuta, 'Toel' meaning 'True' and 'UI' meaning 'Ruler' in Laputian) is one of the main characters in the film, Castle in the Sky.",
+      "apariencia" : "Sheeta wears a plain, indigo dress with a white petticoat underneath. Later, she changes into Dola's large red pants, with a yellow blouse and brown slippers. She has dark brown hair with a short fringe and wears her hair in two braids on either side of her head. Her eyes are a deep greyish blue (though often appear as entirely black). She also wears a red headband. Each braid is tied neatly at the bottom with a red ribbon, a common color for hair accessories in Studio Ghibli films. After having her braids shot off by Muska, her hair is very short, very similar to Kiki's hairstyle.",
+      "history" : "Sheeta is a 13-year old orphan who lived alone in a farm at Gondoa. She is actually of royal descent; once belonging to the long forgotten kingdom of Laputa. She possesses an Aetherium crystal, an heirloom coveted by the Dola gang, Colonel Muska, and the military. Muska manages to capture her, taking her aboard a civilian passenger airship called the Saturn. Dola and her gang mount a daring sneak attack, hoping to take the crystal for themselves. During the raid, Sheeta accidentally falls off the airship. As Sheeta plummets to her doom, the Aetherium crystal reacts, slowing her descent towards Slag Ravine. She is saved by a bright young orphan named Pazu. They become fast friends and are soon in pursuit by Dola and Muska's military henchmen. Pazu and Sheeta are eventually re-captured, and taken to the costal military fortification of Tedus. Pazu is freed after Sheeta reluctantly agrees to help Muska, revealing herself to be a princess of Laputa. As Pazu returns to his home, he meets up with Dola's gang and convinces them to rescue her. As they race back towards the fortress, Sheeta manages to unlock the power of the crystal and escapes with the help of a Laputian robot. ",
+      "image" : "https://i.pinimg.com/736x/96/ac/12/96ac12a5bcb55edba9d38bfef44540f3.jpg",
+      "gender": "Female",
+      "age": "13",
+      "film" : "Castle in the Sky",
+      "eye_color": "Black",
+      "hair_color": "Black",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/598f7048-74ff-41e0-92ef-87dc1ad980a9"
+    },
+    
+    {
+      "id": "abe886e7-30c8-4c19-aaa5-d666e60d14de",
+      "name": "Romska Palo Ul Laputa",
+      "film" : "Castle in the Sky",
+      "who": "Colonel Muska (ムスカ大佐, Muska taisa) is a government special agent and the main antagonist of the movie Castle in the Sky. His goal is to seize control of Laputa's superior technological power by using the Aetherium crystal. It is also revealed that he is biologically related to Sheeta and a descendant of the royal line of Laputa, as his full name is Romska Palo Ul Laputa. He was voiced by Minori Terada in Japanese, Jeff Winkless in the Streamline English version, and Mark Hamill in the Disney English version.",
+      "image" : "https://soranews24.com/wp-content/uploads/sites/3/2014/04/valls.jpg",
+      "apariencia" : "Muska has light brown hair and hazel eyes. He wears tinted glasses, a brown suit, a white shirt and a pale yellow cravat. He is armed with what seems to be a Webley Mk VI revolver. His design is similar to that of David in Katushiro Otomo's Steamboy.",
+      "history" : "In the beginning of the film, Muska and his men have kidnapped the young farm girl Sheeta and are holding her captive aboard a civilian airship. When Dola and her gang attack the airship, hoping to seize Sheeta's mysterious crystal for themselves, Sheeta takes advantage of the confusion and smashes a wine bottle over Muska's head, rendering him unconscious. She retrieves her crystal and escapes along the exterior of the airship, but ultimately loses her grip and falls. Muska and his agents pursue her and, not long after, Sheeta is recaptured just outside the mining town of Slag Ravine, along with the boy, Pazu, who saved her. The pair are taken to the coastal fortification Tedus, where Muska shows Sheeta a deactivated Laputian robot, explaining that the government has put him in charge of finding the kingdom of Laputa, and attempts to persuade her to tell him how to locate it. After Sheeta tearfully insists that she doesn't know anything, Muska indirectly threatens Pazu, telling her that he might not be able to control what the military does to him, in order to get her to cooperate. Sheeta relents and sends Pazu away, after which Muska returns her crystal to her and promises her her freedom if she keeps her end of the deal. The next morning, Sheeta remembers a spell her grandmother taught her, and ends up activating her crystal. The crystal recognizes Muska as a threat under Sheeta's protection spell, shocking him when he tries to touch it. He angrily demands that she tell him the words she used, but the Laputian robot, summoned by Sheeta's spell, intervenes, allowing Sheeta to reunite with Pazu - now working with Dola's gang - and escape, though she loses her crystal in the chaos.",
+      "gender": "Male",
+      "age": "33",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/abe886e7-30c8-4c19-aaa5-d666e60d14de"
+    },
+    {
+      "id": "e08880d0-6938-44f3-b179-81947e7873fc",
+      "image" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1547370839i/26909835.jpg",
+      "name": "Uncle Pom",
+      "film" : "Castle in the Sky",
+      "who" : "Uncle Pom is an old coal miner in Castle in the Sky. He was voiced by Fujio Tokita in Japanese, Edward Mannix in the Streamline English dub and Richard Dysart in the Disney English dub.",
+      "apariencia" : "Uncle Pom is a stocky, elderly man with wild, white hair and a bushy mustache and beard. He wears a cap, a worn and patched coat and a knapsack. Uncle Pom also carries lots of supplies for life in the mine, such as a bedroll, canteen, and lantern.",
+      "history" : "Uncle Pom is usually found in the deeper parts of mines and rarely ever goes above ground. He is a kind, old man that the townspeople call Uncle Pom, because he looks out for everyone. He is especially fond of Pazu. When Sheeta and Pazu become lost in the mines, Uncle Pom helps them find their way out. While they are resting deep in the mine, Uncle Pom tells the children that he talks and listens to the rocks. When they don't understand, Uncle Pom puts out the fire and lantern light, and the rocks begin to glow. Uncle Pom explains that the rocks contain traces of the element Aetherium, which makes them glow. He says that the technology to mine the Aetherium has been lost. Sheeta recognizes the glow as being similar to that of her crystal necklace, and she shows it to Uncle Pom. He recognizes it as a pure Aetherium crystal, but then asks Sheeta to put it away because its voice is too loud and sad for him to bear. Uncle Pom eventually leads the children out of the mine and wishes them well. ",
+      "gender": "Male",
+      "age": "Unspecified/Elderly",
+      "eye_color": "Black",
+      "hair_color": "White",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/e08880d0-6938-44f3-b179-81947e7873fc"
+    },
+    {
+      "id": "5c83c12a-62d5-4e92-8672-33ac76ae1fa0",
+      "image" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1547370964i/26909839.jpg",
+      "name": "General Mouro",
+      "film" : "Castle in the Sky",
+      "who" : "General Muoro is the secondary antagonist in Castle in the Sky. Muoro is a general in the army and is Colonel Muska's subordinate. Muoro is voiced by Ichiro Nagai in the Japanese version, Mike Reynolds in the Streamline English version, and Jim Cummings in the Disney English version.",
+      "apariencia" : "Muoro is a stocky, bald man with a thick, grey mustache and heavy, dark eyebrows. He always wears his military uniform and has two medals pinned to his chest.",
+      "history" : "General Muoro was first seen at a conference in a military base. After Sheeta and Pazu are captured, Muoro urges Muska to interrogate Sheeta to learn the location of Laputa. Later, Muoro and his soldiers board the Goliath military airship to attack the recovered Laputan robot in the army's fortress. Muoro flies the Goliath up to Laputa and attempts to wrest control of the island from Muska, who opens the floor of Goliath's deck and causes Muoro and the soldiers to fall to their deaths. ",
+      "gender": "Male",
+      "age": "Unspecified/Adult",
+      "eye_color": "Black",
+      "hair_color": "None",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/5c83c12a-62d5-4e92-8672-33ac76ae1fa0"
+    },
+    {
+      "id": "3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede",
+      "image" : "https://cdn.anime-planet.com/characters/primary/duffi-1.jpg?t=1625794298",
+      "name": "Duffi",
+      "film" : "Castle in the Sky",
+      "who" : "Mr. Duffi is the boss of Pazu in Castle in the Sky. Mr. Duffi has a wife, Okami, and a young daughter, Madge. Mr. Duffi is voiced by Hiroshi Ito in the Japanese version, Clifton Wells in the Streamline English dub, and John Hostetter in the Disney English dub.",
+      "apariencia"  : " Mr. Duffi has dark brown hair with a thick mustache. He wears a light blue shirt, mauve coveralls, and a tan cap.",
+      "history" : "Mr. Duffi is the mine boss and a highly respected leader among the townspeople. Although he is Pazu's boss, Mr. Duffi also watches out for the orphaned boy, as does his wife Okami. When Pazu befriends Sheeta, Mr. Duffi protects her as well and stands up to the air pirates on her behalf. Mr. Duffi is rightfully proud of his incredible strength. When facing off with the pirates, he and Charles compete to see who is stronger. Charles flexes his chest and arm muscles until his shirt rips to pieces. However, Mr. Duffi is even stronger than Louis, and when he flexes, he is bigger and shreds his shirt even more.",
+      "gender": "Male",
+      "age": "Unspecified/Adult",
+      "eye_color": "Dark brown",
+      "hair_color": "Dark brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/3f4c408b-0bcc-45a0-bc8b-20ffc67a2ede"
+    },
+    {
+      "id": "fcb4a2ac-5e41-4d54-9bba-33068db083ca",
+      "image" : " https://cdn.anime-planet.com/characters/primary/henri-1.jpg?t=1625794330",
+      "name": "Louis",
+      "who" : "Louis is Dola's eldest son and a member of her gang of air pirates in the movie Castle in the Sky. He is voiced by Yoshito Yasuhara in Japanese, Dave Mallow in the Streamline English version, and Mandy Patinkin in the Disney English version.",
+      "apariencia" : "Louis has dark brown hair, dark eyes, a long face with a square chin, and a mustache. Like the rest of the boys in the gang, Louis almost always wears a brown shirt with pink pants, a belt, a red hood and brown slip-on shoes.",
+      "history" : "As the oldest of Dola's sons, Louis is more or less their leader. He is first seen capsizing a civil airship; right at the beginning of the movie. He tries to catch Sheeta, but she escapes by falling down from the airship. He and his brothers are looking for her, but they stop and continues the search on the next day. In the morning in Pazu's Town he and Henri ask Duffi about Sheeta. He wears a white tuxedo. When Pazu and Sheeta run towards Duffi, Sheeta loose her hat. Immediately he recognize her and runs after her. Duffi instantly protects her. Now he shows his muscle and Duffi do the same. Then he hits him in the stomach, which leads to the brawl in the town. Later on in the story, he is always alongside his gang fighting the army and chasing Sheeta. When Sheeta joins his gang on the Tiger Moth, Louis wants to make a good impression on her. He goes to the galley and offers her flowers. But Louis isn't so happy, when he finds out his brothers are eager to impress Sheeta, too.",
+       "gender": "Male",
+      "age": "30",
+      "film" : "Castle in the Sky",
+      "eye_color": "Dark brown",
+      "hair_color": "Dark brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/fcb4a2ac-5e41-4d54-9bba-33068db083ca"
+    },
+    {
+      "id": "b22a684f-1819-40c8-94a6-d40c3b5e18eb",
+      "image" : "http://images6.fanpop.com/image/photos/43300000/Beautiful-Okami-okami-castle-in-the-sky-43370306-300-420.jpg",
+      "name": "Okami",
+      "who":"Okami is the wife of Mr. Duffi and mother of Madge in the film Castle in the Sky. She is voiced by Machiko Washio in the Japanese version, Lara Cody in the Streamline English dub, and Tress MacNeille in the Disney English dub.",
+      "apariencia" : "Okami has dark eyes and bright orange hair which she wears pulled up in a fluffy ponytail. She wears a green dress with a white apron around her waist.",
+      "history" : "Like her husband, Okami watches out for and takes care of Pazu, as well as Sheeta when she befriends Pazu. She helps protect the children from the air pirßates when they pursue Sheeta.", 
+      "gender": "Female",
+      "age": "50",
+      "film" : "Castle in the Sky",
+      "eye_color": "Dark brown",
+      "hair_color": "Orange",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/b22a684f-1819-40c8-94a6-d40c3b5e18eb"
+    },
+    {
+      "id": "ba924631-068e-4436-b6de-f3283fa848f0",
+      "image" : "https://i.pinimg.com/564x/e7/fc/9b/e7fc9b33434450c5c61204d84b5258e8.jpg",
+      "name": "Ashitaka",
+      "film" : "Princess Mononoke",
+      "who" : "Prince Ashitaka (アシタカ , literally translates to Leap in Japanese) is the protagonist of Princess Mononoke and prince of Emishi Village. He is often accompanied by his loyal giant serow Yakul.",
+      "apariencia" : "At the beginning of the movie, Ashitaka is depicted as a handsome young man who has long hair that is tied into a bun, but he cuts it off after he is told to leave the village. His hair then has a layered cut with wild bangs cut over his eyebrows. His hair is dark brown and he has greyish-brown/brownish-grey eyes. His clothing consists of a blue top and peach-white pants, as well as brown bottom warmers and shoes made out of fabric. He also wears blue arm sleeves and a red hood to cover his face. He wears a cloak made out of hay for a small portion of the movie. He wears his fiancée's crystal dagger (In the English dub, everyone calls each other brother and sister, even if they are not related) before he gives it to San. After San's attack on Irontown, Ashitaka has a slash scar on his left cheek where San slashed him with her dagger.", 
+      "history" : "Princess Mononoke starts as Ashitaka is riding towards the lookout tower for his Emishi Village, telling everyone he meets along the way that the village wisewoman Hii-sama has ordered everyone inside the village. When he reaches (and climbs to the top of) the watchtower, he asks the watchman Ji if he sees anything. Ji-san points into the forest not far from the tower. Something is visible moving in the underbrush, getting closer. It is a demon that first appears to be made of purple worms. Everything it touches withers up and dies. It moves towards the watchtower and the village. Crashing into the watchtower, sending it down a steep hill. Ashitaka and the watchman escape, and Ashitaka mounts Yakul and rides to cut the demon off before it reaches the village. He manages to stop it right before it reaches the village, and tries to reason with it and make it leave. It doesn't listen to Ashitaka. Seeing no other choice to keep it from attacking the village, Ashitaka shoots an arrow towards it, and hits its eye. Enraged, the worms around the beast reach out for Ashitaka, and a few latch themselves onto his arm. Ashitaka shoots the second eye, and the boar falls to the ground, immobile.",
+      "gender": "Male",
+      "age": "late teens",
+      "eye_color": "Brown",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/ba924631-068e-4436-b6de-f3283fa848f0"
+    },
+    {
+      "id": "ebe40383-aad2-4208-90ab-698f00c581ab",
+      "image" : "https://i.pinimg.com/564x/d3/32/1d/d3321de567d8a45975f5368b28e837f3.jpg",
+      "name": "San",
+      "film" : "Princess Mononoke",
+      "who" : "San (サン), otherwise known as Princess Mononoke (もののけ姫, Mononoke hime) or the Wolf Girl, is the main character, along with Ashitaka, in Princess Mononoke. She acts, behaves, and resembles a wolf due to the fact that she was raised by wolves themselves. San is the Princess of the Wolf Gods.",
+      "apariencia" : "San is a beautiful young woman of average build who wears ragged clothing and a cape made of a wolf's fur, and has what appears to be amaranth red war paint on her face. She wears a head necklace with a single small gem in her front. She also bears short, straight, light brown hair and has dark blue eyes with bangs slightly parted in the middle. She has a medium necklace with three fangs tied across her neck. She wears long, dangling, oval shaped earrings during the whole film. She is also very agile, fast, fairly strong and appears to be really good at using daggers and spears. She wears a mask which is her iconic feature. The mask is red with ears and white wavy lines and three sunshine yellow holes for a mouth and eyes. Albeit a literal warrior-princess, San is fundamentally defined by her appreciation of nature. Being adopted by the wolf goddess Moro when she was but an infant, the Wolf Girl, as expected, develops a wild personality. However, despite her (justified) coldness towards humans, she is highly capable of compassion.",
+      "history" : "When San was a baby, the wolf goddess Moro attacked her parents, who were found damaging the forest. Her parents threw San to her feet and ran away. Moro raised San as her own daughter, and in turn San treats Moro as her mother and Moro's two natural pups as her siblings. San's primary concern is protecting the forest and the animals she lives with. San rejects her own humanity and even thinks of herself as a wolf. She has suicidal thoughts and attempts to assassinate Lady Eboshi of Irontown many times, as San believes that Eboshi's death will result in the end of Irontown and human growth into the surrounding, untouched forest. It is only by Ashitaka's affection to her that she slowly comes to acknowledge her human side as well. After the battle for the Forest Spirit's head, San tells Ashitaka that he is very dear to her. However, she cannot forgive the human race for what they have done to the forest and will continue to live apart from them. San returns to the forest while Ashitaka remains in Irontown. Before separating, Ashitaka promises that he will always be near and he will visit her in the forest whenever he can. San reciprocates his declarations and leaves.",
+      "gender": "Female",
+      "age": "17",
+      "eye_color": "Brown",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/ebe40383-aad2-4208-90ab-698f00c581ab"
+    },
+    {
+      "id": "34277bec-7401-43fa-a00a-5aee64b45b08",
+      "image" : "https://i.pinimg.com/originals/0c/1f/55/0c1f5599943c2690755c684108f73b7e.jpg",
+      "name": "Eboshi",
+      "film" : "Princess Mononoke",
+      "who" : "Eboshi is the main antagonist of Princess Mononoke. She was voiced by Yūko Tanaka in Japanese and Minnie Driver in English.",
+      "apariencia" : "She has black hair that she ties up in some sort of traditional style, finishing off with a pink ribbon. She's the only female in the film who wears lipstick. She wears Hakama, a dark red male kimono, and a huge cloak that she hangs on her shoulders. This outfit is reminiscent of 'Shirabyoushi',[1] which hints at her backstory. And it is her unexplained difficult past, which provokes her high opinion of herself, and her low opinion of others problems. When she's in her 'battle attire' she wears a shorter cloak and a red 'eboshi cap' which gave her name.",
+      "history" : "She was a slave sold to pirates. Later on she became the wife of a pirate, who lead the first pirates of Japan. Then the leader was murdered in his hometown and Eboshi was on her own. Soon she saw Ishibiya, the Chinese guns. She used them to conquer the area of the Cedar Forest.[2]",
+      "gender": "Female",
+      "age": "Unspecified/Adult",
+      "eye_color": "Hazel",
+      "hair_color": "Black",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/34277bec-7401-43fa-a00a-5aee64b45b08"
+    },
+    {
+      "id": "91939012-90b9-46e5-a649-96b898073c82",
+      "image" : " https://i.imgur.com/wlugwgBh.jpg", 
+      "name": "Jigo",
+      "film" : "Princess Mononoke",
+      "who" : "Jigo is a character from Princess Mononoke, film directed by Hayao Miyazaki of Studio Ghibli.",
+      "apariencia" : "He first appears as Ashitaka's ally, but is later revealed to be the secondary antagonist, wanting to present the Forest Spirit's severed head to the Emperor Mikado so that he could be paid handsomely. It is said the head has the power of eternal youth. He is a member of the mysterious organization Shishoren (eng. The Alliance of Lords).",
+      "history" : "Jigo pretends to be a knowledgeable monk and initially helped Ashitaka by giving him information about the Forest Spirit while being pessimistic about the state of the world. In his next appearance, it's revealed that he's hunting the Forest Spirit with permission from the Emperor and he also has platoons of Riflemen along with Hunters working for him. Jigo gets Lady Eboshi to help him slay the Forest Spirit after telling her she owes him for letting her use his Riflemen to help kill Nago. Jigo and Eboshi manage to track the Forest Spirit to its lake in the middle of the forest and Jigo lets Eboshi kill it, claiming it's best to let others do the work of killing gods. Jigo takes the severed head of the Forest Spirit and tries to flee the destruction that the Forest Spirit's death was inflicting on the world. Knowing that the Forest Spirit's wrath would only be quenched if it reclaimed its head, Ashitaka and San confront Jigo, who claims it'll be over when the sunrise comes and destroys the Night Walker. Jigo tries to fight them off while his men escape with the head. However, that plan fails when the head's container is dropped and Jigo, Ashitaka and San are surrounded by the Forest Spirit's corruption. Left with no other choice, Jigo surrenders the head and the Forest Spirit ceases its destruction.",
+      "gender": "Male",
+      "age": "Middle age",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/91939012-90b9-46e5-a649-96b898073c82"
+    },
+    {
+      "id": "20e3bd33-b35d-41e6-83a4-57ca7f028d38",
+      "image" :  "https://cdn.anime-planet.com/characters/primary/koroku-1.jpg?t=1625775329",
+      "name": "Kohroku",
+      "film" : "Princess Mononoke",
+      "who" : "Kohroku is the husband of Toki in Princess Mononoke directed by Hayao Miyazaki of Studio Ghibli. He fears Kodamas.",
+      "apariencia" : "Ashitaka has to rescue him after he, Lady Eboshi and the rest of the working men ran into San and the wolves, while bringing their goods back to Irontown. He was injured and thrown into a river, where Ashitaka found him and brought him back to the safety of Irontown.",
+      "gender": "Male",
+      "age": "Adult",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/20e3bd33-b35d-41e6-83a4-57ca7f028d38"
+    },
+    {
+      "id": "8bccdc78-545b-49f4-a4c8-756163a38c91",
+      "image" : "https://ami.animecharactersdatabase.com/uploads/chars/5688-2082147945.jpg",
+      "name": "Gonza",
+      "film" : "Princess Mononoke",
+      "who" : "Gonza is the henchman of Lady Eboshi from Princess Mononoke directed by Hayao Miyazaki of Studio Ghibli. He was voiced by Tsunehiko Kamijo in the Japanese version and John DiMaggio in the English version.",
+      "history" : "He commands the soldiers in Irontown. He is a loyal henchman to Eboshi and is quick to draw his sword to defend her honor. Beside Eboshi, he distrusts all people, because many people like Asano try to occupy Irontown.",
+      "apariencia" : "He was once a pirate. After his leader was murdered, he follows Eboshi.[1]",
+      "gender": "Male",
+      "age": "Adult",
+      "eye_color": "Grey",
+      "hair_color": "Bald, but beard is Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/8bccdc78-545b-49f4-a4c8-756163a38c91"
+    },
+    {
+      "id": "116bfe1b-3ba8-4fa0-8f72-88537a493cb9",
+      "image": "https://cdn.anime-planet.com/characters/primary/hii-sama-1.jpg?t=1625831043",
+      "name": "Hii-sama",
+      "film" : "Princess Mononoke",
+      "who" : "Hī-sama is the wise woman in Princess Mononoke, a film directed by Hayao Miyazaki of Studio Ghibli. She was voiced by Mitsuko Mori in the Japanese version and Debi Derryberry in the English version. She is the elder and shaman of the Emishi Village.[1]",
+      "apariencia" : "She is first seen after Nago's attack. She carries hot water in a jar, which Kaya pours on Ashitaka's arm. Then she bows to Nago and she pleads to him not to pour his anger on the village.",
+      "history" : "She finds a bullet in Nago's body and believes that it is the reason Nago became a demon. Ashitaka has to leave the village to find a cure for the curse on his arm. Hī-sama's diagnosis is that Ashitaka will die from that curse the same way Nago did.", 
+      "gender": "Female",
+      "age": "Over 50",
+      "eye_color": "Brown",
+      "hair_color": "White",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/116bfe1b-3ba8-4fa0-8f72-88537a493cb9"
+    },
+    {
+      "id": "030555b3-4c92-4fce-93fb-e70c3ae3df8b",
+      "image" : "https://cdn.anime-planet.com/characters/primary/yakul-1.jpg?t=1625775324",
+      "name": "Yakul",
+      "film" : "Princess Mononoke",
+      "who" : "Yakul (also known Yakkuru in Japanese) is Ashitaka's loyal giant serow. He looks very similar to the Forest Spirit, but doesn't have a human face or as many horns.",
+      "apariencia" : "At the beginning of the movie, Yakul is seen galloping with Ashitaka on his back. Kaya warns them about something she saw in the forest. Yakul runs to the watch tower which Ashitaka climbs. The boar demon emerges from the forest covered in Demon Worms. Ashitaka commands Yakul to run away from the demon, Yakul too scared to run away freezes, Ashitaka then launches an arrow into the wooden pole next to Yakul, snapping him out of fear and he takes off. The demon soon rams into the tower, knocking it down sending the watchman and Ashitaka plummeting down to the ground. Ashitaka grabs the man and navigates them into a tree. Soon, Ashitaka and Yakul are reunited, and chase the boar demon down a hill. Yakul and Ashitaka run in front of the demon. Ashitaka shoots an arrow into its eye, causing the demon to roar in pain. It starts to chase Ashitaka and Yakul. Soon, Demon Worms invade Ashitaka's lower right arm. Finally, Yakul and Ashitaka slay the demon, and bring peace to their village.",
+      "history" : "After, Yakul is seen carrying San, the wolf girl. Soon, San wakes up only to startle Yakul and send San flying off. Ashitaka and Yakul are brought to where the wolves live to spend the night but to leave in the morning. The next day, as Yakul and Ashitaka are heading to Irontown, Ashitaka hears San is in danger and goes looking for her. The emperor's samurai attack them in the process, Yakul is injured, causing Ashitaka to leave him behind. Yakul can't help but to be with his master, so he follows him until Ashitaka decides to bring him along. Once the pair is at Irontown, destroyed and under the attack of Asano's warriors, Ashitaka leaves Yakul in the hands of the men of the town.",
+      "age": "Unknown",
+      "gender": "Male",
+      "eye_color": "Grey",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
+      "url": "https://ghibliapi.herokuapp.com/people/030555b3-4c92-4fce-93fb-e70c3ae3df8b"
+    },
+    {
+      "id": "ca568e87-4ce2-4afa-a6c5-51f4ae80a60b",
+      "name": "Shishigami",
+      "film" : "Princess Mononoke",
+      "who" : "Forest Spirit, also called Shishigami (シシガミ, Dear God) and Night-Walker (デイダラボッチ, Deidarabotchi), is a supporting character in Princess Mononoke. It is known as a god of life and death.",
+      "apariencia" : "The Forest Spirit looks like a deer, but with more antlers and a human-like face;[1] It can transform into a gigantic, translucent humanoid during the night called the Night-Walker." ,
+      "history" : "The Deer God Forest Spirit is the protector of the Cedar Forest and is the god of life and death. It heals Ashitaka of his bullet wound, yet interestingly leaves the boar's curse untouched. Later, it takes the life of Okkoto and Moro.[2] During Lady Eboshi's hunt to kill the Deer God, she shoots it as it transforms, turning it into the humanoid-like Night-Walker, releasing its destructive body. This causes the life of everything it touches to be drained away, causing mass destruction and death; this lasts until Ashitaka and San return its head, restoring peace.",
+      "image" : "https://i.pinimg.com/736x/cb/69/53/cb6953d019d41a6e9fdcb811688f8b54.jpg",
+      "age": "400",
+      "gender": "Male",
+      "eye_color": "Red",
+      "hair_color": "Light Orange",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/6bc92fdd-b0f4-4286-ad71-1f99fb4a0d1e",
+      "url": "https://ghibliapi.herokuapp.com/people/ca568e87-4ce2-4afa-a6c5-51f4ae80a60b"
+    },
+    {
+      "id": "e9356bb5-4d4a-4c93-aadc-c83e514bffe3",
+      "image" : "https://i.pinimg.com/originals/db/e3/bc/dbe3bc3aa213049afeac0d60d1f72f29.jpg",
+      "name": "Moro",
+      "film" : "Princess Mononoke",
+      "who" : "Moro (モロの君 Moro no Kimi) is supporting character of Princess Mononoke film. She is the three-hundred years old god of the wolves who possesses divine power and intelligence, as well as being capable of understanding and speaking human languages. Moro is very wise and is keen to the tricks of mankind. She is a stoic and strong character who knows the evil intentions of humans. She is the leader of the wolf tribe and a loving mother. Moro comes across as threatening towards Ashitaka, but understands his deep affection for San.",
+      "apariencia" : "Moro has long white fur, olive eyes with red whites (possibly because of being bloodshot), large teeth and a purple-brown nose. She is relatively big as when she is sitting down, San is as tall as her head. She also has two tails which none of the other wolves have, this was to help her stand out.",
+      "history" : "When San was just a baby, Moro caught her parents violating her forest and attacked them. San's parents then threw their baby at Moro's feet as a sacrifice and ran away. Instead of eating her, Moro raised San as her own daughter. Because of this, San behaves like a wolf, and despises humans as her mother does. After the Forest Spirit takes the life out of Moro and Okkoto, Lady Eboshi shoots the Forest Spirit's head off. After she throws the head to Jigo, Moro's head comes back to life and bites Lady Eboshi's right arm off. Moro rams into the forest spirit's body and is then killed.",
+      "gender": "Female",
+      "age": "300",
+      "eye_color": "Brown",
+      "hair_color": "White",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/0440483e-ca0e-4120-8c50-4c8cd9b965d6"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/f25fa661-3073-414d-968a-ab062e3065f7",
+      "url": "https://ghibliapi.herokuapp.com/people/e9356bb5-4d4a-4c93-aadc-c83e514bffe3"
+    },
+    {
+      "id": "7151abc6-1a9e-4e6a-9711-ddb50ea572ec",
+      "image" : "https://i.pinimg.com/originals/3f/68/fd/3f68fd34287fdc0b095c012f16953f9d.jpg",
+      "name": "Jiji",
+      "film" : "Kiki's Delivery Service",
+      "who" : "Jiji (ジジ ) is Kiki's familiar in the film, Kiki's Delivery Service.",
+      "apariencia" : "Jiji is a black cat with large white eyes and black pupils. The insides of his ears are iris purple.",
+      "history" : "Jiji is Kiki's companion as she is training to become a full-fledged witch. One time, he had to pretend to be a stuffed cat for a boy's birthday gift. The real stuffed cat, which looked exactly like him, was lost in the forest. Jiji also gets a girlfriend, who is a white cat named Lily. In the credits, it is shown that Jiji and Lily had kittens together.", 
+      "gender": "Male",
+      "age": "NA",
+      "eye_color": "Black",
+      "hair_color": "Black",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/7151abc6-1a9e-4e6a-9711-ddb50ea572ec"
+    },
+    {
+      "id": "986faac6-67e3-4fb8-a9ee-bad077c2e7fe",
+      "image" : "https://i.pinimg.com/originals/77/69/f5/7769f509e6efe6f1c31d1deb44f51768.jpg",
+      "name": "Satsuki Kusakabe",
+      "film" : "Kiki's Delivery Service",
+      "who" : "Satsuki Kusakabe (草壁 サツキ Kusakabe Satsuki), also known as Satsuko, is one of the protagonists in My Neighbor Totoro.",
+      "apariencia" : "Satsuki has short, walnut brown hair and chocolate brown eyes (the eyes mostly appear black due to coloring and art style). She wears a tangerine skirt with tangerine suspenders, white bloomers, a sunshine yellow collared shirt, a sky blue pair of shoes, and a white hat (only worn in a few scenes). In the second half of the movie she wears a yellow dress with white hems. During the end credits she has a yellow shirt and tangerine overalls on with a picture of a chibi Totoro embroidered onto the right leg. She is noticeably tall compared to her sister, and somewhat taller than a few of the children her age at her school. Whenever she is inside the family household, Satsuki typically wears her choice of casual clothing or her pajamas during nighttime. Like her sister, she prefers to be barefoot when inside and/or around the house.",
+      "history" : "Satsuki boards the moving van along with four-year sister Mei. Satsuki is Mei Kusakabe's older sister and daughter of Tatsuo Kusakabe and Yasuko Kusakabe. Upon moving to the country, she and her sister Mei discover the home of Totoro, a giant anthropomorphic catlike creature. Through a series of adventures, they become very close. She has a friend named Michiko.",
+      "gender": "Female",
+      "age": "11",
+      "eye_color": "Dark Brown/Black",
+      "hair_color": "Dark Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/986faac6-67e3-4fb8-a9ee-bad077c2e7fe"
+    },
+    {
+      "id": "d5df3c04-f355-4038-833c-83bd3502b6b9",
+      "image" : "https://i.pinimg.com/originals/41/61/0a/41610a64b6f21fc4dca2113451f92df4.jpg",
+      "name": "Mei Kusakabe",
+      "film" : "My Neighbor Totoro",
+      "who" : "Mei Kusakabe (草壁 メイ, Kusakabe Mei) is the four-year-old protagonist little sister of Satsuki in My Neighbor Totoro and Mei and the Kittenbus. She is the daughter of Tatsuo and Yasuko Kusakabe.",
+      "apariencia" : "Mei Kusakabe is four-years old. In the Steamline dub, she is five. She has sandy brown hair and chocolate brown eyes. She wears a white puffy blouse with a bright pink dress (as present in her birthday and buyed from a shop) and sunshine yellow shoes and white bloomers, and carries a yellow bag. At the end of the film, she wears a carnation pink dress. Mei also wears a sunshine yellow night-dress at night and a sky blue night-dress at night in the sequel.",
+      "history" : "Mei is Satsuki's troublesome little sister. Born in Tokyo in May 1954, she is the first seen aboard the moving van along with her sister and her father Tatsuo. There are awaiting their mother's release from the hospital in a house where the air is clear. She greedily eats her favorite snack of caramel while the family passes the rice fields of Sayama Hills. She first spots their new home beneath a giant camphor tree and along with her sister, excitedly greet the spirits that inhabit within. Granny, the caretaker of the home, takes a liking to Mei, and tells them that she once saw spirits too when she was young. One day, Mei encounters one of the totoros and chases after it. The littlest one leads Mei to a tunnel to the massive camphor tree's roots where she accidentally falls through. There she meets Totoro, the spirit that inhabits the camphor tree. Mei isn't the least bit scared the large creature, and is in awe even as it yawns. Ta,ta, ra... Mei exclaims. The creature blinks and lets out a loud Buha, buha. Mei shouts, To, to, ro!",
+      "gender": "Female",
+      "age": "4",
+      "eye_color": "Brown",
+      "hair_color": "Light Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/d5df3c04-f355-4038-833c-83bd3502b6b9"
+    },
+    {
+      "id": "3031caa8-eb1a-41c6-ab93-dd091b541e11",
+      "image" : "https://i.pinimg.com/originals/3c/f6/18/3cf6181bebf6d05a3d34b5e496997e7d.jpg",
+      "name": "Tatsuo Kusakabe",
+      "film" : "My Neighbor Totoro",
+      "who" : "Tatsuo Kusakabe (草壁 タツオ Kusakabe Tatsuo) is the husband of Yasuko Kusakabe and the father of Satsuki and Mei Kusakabe who works at a college as a professor of archaeology.",
+      "apariencia" : "Tatsuo has brown hair and brown eyes; he wears a red vest and blue trousers, and a white under shirt. He also wears thick black glasses.",
+      "history" : "In the beginning of My Neighbor Totoro, Tatsuo, Satsuki Kusakabe and Mei Kusakabe are seen in the moving truck, moving to a new house. When Mei and Satsuki believe that the house is haunted, he tells them that he always wanted to live in a haunted house. Later in the story, when Mei decides to go exploring, she leaves Tatsuo in charge of her 'flower shop.' When Mei claims to have seen Totoro, he believes her, saying that it is probably a forest spirit. That night, in a windy evening, the family scare away the spirits in the house. He, Satsuki, and Mei laugh a lot to make the soot sprites leave, which are seen leaving the house that night. Later, he misses the bus home due to a late train. Upon arriving at the bus stop he finds Satsuki and Mei waiting for him, and learns Satsuki also saw Totoro, who gave Mei a present of acorns. Some time later, he is working late at night when he hears the sound of a flute. Looking up at the trees, he appears to see the Totoros from a distance when Mei and Satsuki play acorn flutes with them. Since they were too far away to make out clearly he likely assumed them to be owls.",
+      "gender": "Male",
+      "age": "37",
+      "eye_color": "Brown",
+      "hair_color": "Dark Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/3031caa8-eb1a-41c6-ab93-dd091b541e11"
+    },
+    {
+      "id": "87b68b97-3774-495b-bf80-495a5f3e672d",
+      "image" : "https://cdn.anime-planet.com/characters/primary/yasuko-kusakabe-1.jpg?t=1625774514",
+      "name": "Yasuko Kusakabe",
+      "film" : "My Neighbor Totoro",
+      "who" : "Yasuko Kusakabe is a supporting character in My Neighbor Totoro. She is the mother of Satsuki and Mei Kusakabe, and the wife of Tatsuo Kusakabe. Presumably, she suffers from Tuberculosis; her sickness being the reason why she and her family moved to the rural country side. She was admitted to the local hospital which offered the best care for the illness, and the family decided it would be best for her to recuperate in a more fresh and sunny environment.",
+      "apariencia" :" Yasuko has brown eyes and dark brown hair with a pigtail. She wears a hospital cloth, as well as a blue kimono and a blue dress in the epilogue scenes.",
+      "history" : "Yasuko is first seen when Satsuki, Mei, and their father come to visit her in the hospital. They are very excited to see each other, and she asks the children about how they are settling in. Satsuki then whispers in her mother's ear that there may be ghosts in their home, and Mei hesitantly asks her if she likes haunted houses, afraid that her mother may not want to come home if such circumstances apply. Intrigued, Yasuko joyfully states that she will have to return home soon so she can meet some ghosts. Yasuko then begins to brush Satsuki's hair out of affection, stating that her hair is unmanageable, as her hair was when she was her daughter's age, and states that she and Satsuki are a lot alike.",
+      "gender": "Female",
+      "age": "Adult",
+      "eye_color": "Brown",
+      "hair_color": "Dark Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/87b68b97-3774-495b-bf80-495a5f3e672d"
+    },
+    {
+      "id": "08ffbce4-7f94-476a-95bc-76d3c3969c19",
+      "image" : "https://i.pinimg.com/736x/21/b7/c2/21b7c21ec3b27a1d4be0aa0203fb1e0a.jpg",
+      "name": "Granny",
+      "film" : "My Neighbor Totoro",
+      "who" : "Granny is Kanta's grandmother in the film My Neighbor Totoro directed by Hayao Miyazaki of Studio Ghibli. She is known as Nanny in the Troma dub.",
+      "apariencia" : "Granny has grey hair, black eyes, and wears a white shirt, a periwinkle robe, and a white hat.",
+      "history" : "In the film, Granny is first seen when she helps the Kusakabe family settle into their new house. She is also at the rice fields when they go to visit their mother in the hospital. When Mei and Satsuki get a telegram saying their mother is ill, she tries to console them, with no real effect. After Mei runs away, Granny helps look for her with the other villagers.",
+      "gender": "Female",
+      "age": "Elder",
+      "eye_color": "Black",
+      "hair_color": "Grey",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/08ffbce4-7f94-476a-95bc-76d3c3969c19"
+    },
+    {
+      "id": "0f8ef701-b4c7-4f15-bd15-368c7fe38d0a",
+      "image" : "https://i.pinimg.com/736x/07/05/a2/0705a20d31f651218d09be3e52be4d9f.jpg",
+      "name": "Kanta Ōgaki",
+      "film" : "My Neighbor Totoro",
+      "who" : "Kanta Ōgaki is a supporting character in My Neighbor Totoro.",
+      "apariencia" : "He has short brown hair that creates an arch down on his forehead, like a fringe. He has pale white skin and is fairly skinny. He has grey eyes and a fairly neutral expression throughout the film. The clothes he wears are basic, a short-sleeved white polo shirt, brown shorts, a white sleeveless shirt and also wears a captain sailor hat (which is similar in appearance to Seita's own sailor hat in Grave of the Fireflies).",
+      "history" : "Kanta first appears when the Kusakabe family are making their way to their new house. He shys away very quickly upon seeing Mei and Satsuki. Kanta then brings a basket to Granny who is helping the Kusakabe's move in, where  he meets Satsuki properly and forcefully hands her the basket and runs away, commenting to Satsuki that her house is haunted but Granny catches him. Kanta then pulls faces at Satsuki when she and Mei and Mr. Kusakabe ride past on as bicycle. Kanta is then seen feeding the animals on his family's farm before heading for school where he becomes distracted noticing Satsuki, prompting his teacher to punish him. On his way home, Kanta sees Satsuki and Mei sheltering under a shrine, he ignores them only to then run to them and forcefully offer them his umbrella before dropping it and hurrying home. Kanta is then seen at his home where his mother scolds and punishes him for losing his umbrella. He observes Satsuki and Mei returning his umbrella from a distance then plays with a model aircraft he has built. Kanta's next appearance is when he brings a telegram for the Kusakabe's to Granny's home where Satsuki and Mei are. He then takes Satsuki (with Mei following) to his uncle's.",
+      "gender": "Male",
+      "age": "11",
+      "eye_color": "Brown",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/0f8ef701-b4c7-4f15-bd15-368c7fe38d0a"
+    },
+    {
+      "id": "d39deecb-2bd0-4770-8b45-485f26e1381f",
+      "image" : "https://i.pinimg.com/564x/f0/a1/4a/f0a14a68d6b691c29c5fa2086ce4a25b--iphone--wallpaper-desktop-wallpapers.jpg",
+      "name": "Totoro",
+      "film" : "My Neighbor Totoro",
+      "who" : "Totoro is the title tetartagonist in Studio Ghibli's film My Neighbor Totoro, as well as its sequel, Mei and the Kittenbus. He is the mascot of Studio Ghibli",
+      "apariencia" : "Totoro appears as a large furry creature with grey fur and beige belly with grey arrows on his chest. He has pointy ears, long whiskers along with large paws with long claws. When he floats his mouth expands greatly. His silhouette vaguely resembles that of an owl.",
+      "history" : "Mei first encounters the small Totoro, followed by his medium companion, while running around the house's yard and spotting their acorns. She follows them into the forest where she discovers Totoro taking a nap. Although he is clearly surprised by her presence, he ultimately lets her fall asleep on his chest. Later, he arrives at the same bus stop where Mei and Satsuki are waiting for their father. He wears a simple leaf to protect him from the rain: Satsuki gives him their father's umbrella. Totoro is intrigued by the sound of rain dripping from the trees landing on the umbrella, and even playfully jumps on the ground to cause more to fall. Eventually, the Catbus arrives to take him on his way. Before he leaves, he gives Mei a gift of acorns wrapped in bamboo leaf for the girls to plant.",
+      "gender": "NA",
+      "age": "",
+      "eye_color": "Grey",
+      "hair_color": "Grey",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
+      "url": "https://ghibliapi.herokuapp.com/people/d39deecb-2bd0-4770-8b45-485f26e1381f"
+    },
+    {
+      "id": "591524bc-04fe-4e60-8d61-2425e42ffb2a",
+      "image" : "https://i.pinimg.com/originals/3f/79/bb/3f79bb67ca13575bdc2fab13c9656ed6.jpg",
+      "name": "Chu Totoro",
+      "film" : "My Neighbor Totoro",
+      "who" : "Totoro's Servants are friends of Totoro's in My Neighbor Totoro.",
+      "history" : "When Mei chases the Mini Totoros she had seen under the house, she ends up in the Totoro's nest and later sees them again when the girls are helping to grow the giant tree.",
+      "apariencia" :"Blue Totoro has a burglar-like bag filled with acorns. His name is Chu Totoro.",
+      "gender": "NA",
+      "age": "",
+      "eye_color": "Black",
+      "hair_color": "Blue",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/74b7f547-1577-4430-806c-c358c8b6bcf5",
+      "url": "https://ghibliapi.herokuapp.com/people/d39deecb-2bd0-4770-8b45-485f26e1381f"
+    },
+
+    {
+      "id": "f467e18e-3694-409f-bdb3-be891ade1106",
+      "image" : "https://images.complex.com/complex/image/upload/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/cd5dd1ec97f0035788f3cf71f5c026ceab7edc38_ddnkew.jpg?fimg-ssr-default",
+      "name": "Catbus",
+      "film" : "My Neighbor Totoro",
+      "who" : "The Catbus is a transporting animal bus-looking character in My Neighbor Totoro. He is met by Mei, Satsuki and Totoro. (though Totoro could have known him for years since he already knows to take it to get back to his home under the camper tree). ",
+      "apariencia" : "The Catbus appears on the road of the forest, when Mei, Satsuki and Totoro waiting for Tatsuo Kusakabe's bus to arrive. After the bus speeds a bit too fast and then backs up, it meows with its glowing carlight eyes and smiles like the Cheshire Cat (when he spots the girls), the girls make a random noise in surprise. ",
+      "history" : "The Catbus appears on the road of the forest, when Mei, Satsuki and Totoro waiting for Tatsuo Kusakabe's bus to arrive. After the bus speeds a bit too fast and then backs up, it meows with its glowing carlight eyes and smiles like the Cheshire Cat (when he spots the girls), the girls make a random noise in surprise. ",
+      "gender": "Male",
+      "age": "NA",
+      "eye_color": "Yellow",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/f467e18e-3694-409f-bdb3-be891ade1106"
+    },
+
+    {
+      "id": "6b3facea-ea33-47b1-96ce-3fc737b119b8",
+      "image" : "https://cdn.anime-planet.com/characters/primary/muta-1.jpg?t=1625774669",
+      "name": "Renaldo Moon aka Moon aka Muta",
+      "film" : "The Cat Returns",
+      "who" : "Muta is a supporting character in The Cat Returns.",
+      "apariencia" : "Although the character design is very similar, in Whisper of the Heart Muta is known mostly as Moon by Shizuku and Seiji, and is only called Muta once at the end of the film by an unnamed little boy speculated maybe to be one of Muta's owners. Much like in The Cat Returns, Muta's purpose in this film is to lead the main character, Shizuku, to the characters who will help her overcome her challenges and grow as a person (these characters being Seiji and his grandfather, Mr. Shirō Nishi).",
+      "history" : "Brash and grumpy, Muta is known for his unchecked sense of sarcasm and condescension towards people and his other companions, and for his huge appetite. This accounted for his chagrined relationship with Toto, whom he has a mutual dislike with, though they wouldn't hesitate to team up and work together when the need arises. In spite of his seeming indifference, he did eventually warm up to Haru, whom he praised for standing up for herself and later aided in her escape from the Cat Realm.",
+      "gender": "Male",
+      "age": "NA",
+      "eye_color": "White",
+      "hair_color": "Beige",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81",
+        "https://ghibliapi.herokuapp.com/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/6b3facea-ea33-47b1-96ce-3fc737b119b8"
+    },
+    {
+      "id": "3042818d-a8bb-4cba-8180-c19249822d57",
+      "image" : "https://pbs.twimg.com/media/EcBLt75UYAAl8gO.jpg",
+      "name": "Cat King",
+      "film" : "The Cat Returns",
+      "gender": "Male",
+      "age": "87",
+      "eye_color": "Emerald",
+      "hair_color": "Grey",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/3042818d-a8bb-4cba-8180-c19249822d57"
+    },
+    {
+      "id": "58d1973f-f247-47d7-9358-e56cb0d2b5a6",
+      "image" : "https://i.pinimg.com/originals/d7/95/71/d795713252b800292781c7b632328083.jpg",
+      "name": "Yuki",
+      "film" : "The Cat Returns",
+      "gender": "Female",
+      "age": "NA",
+      "eye_color": "Blue",
+      "hair_color": "White",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/58d1973f-f247-47d7-9358-e56cb0d2b5a6"
+    },
+    {
+      "id": "a3d8e70f-46a0-4e5a-b850-db01620d6b92",
+      "image" : "https://i.pinimg.com/736x/6e/f8/5c/6ef85c4962a1a9cb269dc91b02ca884e.jpg",
+      "name": "Haru",
+      "film" : "The Cat Returns",
+      "gender": "Female",
+      "age": "13",
+      "eye_color": "Brown",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/a3d8e70f-46a0-4e5a-b850-db01620d6b92"
+    },
+    {
+      "id": "fc196c4f-0201-4ed2-9add-c6403f7c4d32",
+      "image":"https://i.pinimg.com/originals/14/87/b0/1487b0e37d011f9bcf7e085ab7793074.png",
+      "name": "Baron Humbert von Gikkingen",
+      "gender": "Male",
+      "film" : "The Cat Returns",
+      "age": "NA",
+      "eye_color": "Green",
+      "hair_color": "Yellow",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
+        "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/fc196c4f-0201-4ed2-9add-c6403f7c4d32"
+    },
+    {
+      "id": "466bc926-2024-4653-ac63-fe52f2dc8c7b",
+      "film" : "The Cat Returns",
+      "image": "https://cdn.anime-planet.com/characters/primary/natori-1.jpg?t=1625774673",
+      "name": "Natori",
+      "gender": "Male",
+      "age": "NA",
+      "eye_color": "Blue",
+      "hair_color": "Grey",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/90b72513-afd4-4570-84de-a56c312fdf81"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/603428ba-8a86-4b0b-a9f1-65df6abef3d3",
+      "url": "https://ghibliapi.herokuapp.com/people/466bc926-2024-4653-ac63-fe52f2dc8c7b"
+    },
+    {
+      "id": "40c005ce-3725-4f15-8409-3e1b1b14b583",
+      "image" : "https://soranews24.com/wp-content/uploads/sites/3/2014/04/valls.jpg",
+      "name": "Colonel Muska",
+      "film" : "Castle in the Sky",
+      "gender": "Male",
+      "age": "33",
+      "eye_color": "Grey",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/40c005ce-3725-4f15-8409-3e1b1b14b583"
+    },
+    {
+      "id": "6523068d-f5a9-4150-bf5b-76abe6fb42c3",
+      "image" : "https://cdn.vox-cdn.com/thumbor/Ewo6PKQSzJshpFhv5U_kwrCkXb0=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/20009856/Porco_Rosso_963064296_large.jpg",
+      "name": "Porco Rosso",
+      "film" : "Porco Rosso",
+      "gender": "Male",
+      "age": "47",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ebbb6b7c-945c-41ee-a792-de0e43191bd8"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/6523068d-f5a9-4150-bf5b-76abe6fb42c3"
+    },
+    {
+      "id": "a10f64f3-e0b6-4a94-bf30-87ad8bc51607",
+      "image" : "https://i.pinimg.com/564x/10/22/92/10229270d5c8e556b58c3e6bc32056f1.jpg",
+      "name": "Sosuke",
+      "film" : "Porco Rosso",
+      "gender": "Male",
+      "age": "5",
+      "eye_color": "Brown",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/758bf02e-3122-46e0-884e-67cf83df1786"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/a10f64f3-e0b6-4a94-bf30-87ad8bc51607"
+    },
+    {
+      "id": "2409052a-9029-4e8d-bfaf-70fd82c8e48d",
+      "image" : "https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/inline-images/pelicula-kiki-hechicera-miyazaki-2.jpg",
+      "name": "Kiki",
+      "film" : "Kiki's Delivery Service",
+      "gander": "Female",
+      "age": "13",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/2409052a-9029-4e8d-bfaf-70fd82c8e48d"
+    },
+    {
+      "id": "2a1dad70-802a-459d-8cc2-4ebd8821248b",
+      "image" : "https://i.pinimg.com/474x/3c/1c/08/3c1c086decdb83ca9c14e4e36b914872.jpg",
+      "name": "Laputian Robot",
+      "film" : "Castle in the Sky",
+      "gender": "NA",
+      "age": "Really Old",
+      "eye_color": "Black",
+      "hair_color": "NA",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/2baf70d1-42bb-4437-b551-e5fed5a87abe"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/",
+      "url": "https://ghibliapi.herokuapp.com/people/2a1dad70-802a-459d-8cc2-4ebd8821248b"
+    },
+    {
+      "id": "8228751c-bdc1-4b8d-a6eb-ca0eb909568f",
+      "image" : "https://cdn.myanimelist.net/images/characters/10/408136.jpg",
+      "name": "Chihiro Ogino",
+      "film" : "Spirited Away",
+      "gender": "Female",
+      "age": "10",
+      "eye_color": "Black",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/dc2e6bd1-8156-4886-adff-b39e6043af0c"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/8228751c-bdc1-4b8d-a6eb-ca0eb909568f"
+    },
+    {
+      "id": "1c1a8054-3a34-4185-bfcf-e8011506f09a",
+      "image" : "https://i.pinimg.com/originals/aa/c8/10/aac810400663268f9c371bb5b2d3abda.jpg",
+      "name": "Osono",
+      "film" : "Castle in the Sky",
+      "gender": "Female",
+      "age": "26",
+      "eye_color": "Black",
+      "hair_color": "Red",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/1c1a8054-3a34-4185-bfcf-e8011506f09a"
+    },
+    {
+      "id": "bc838920-7849-43ea-bfb8-7d5e98dc20b6",
+      "image" : "https://i.pinimg.com/originals/05/60/9b/05609b5abc3004b2cdb4f9ed66a1b1ed.jpg",
+      "name": "Ursula",
+      "film" : "Kiki's Delivery Service",
+      "gender": "Female",
+      "age": "18",
+      "eye_color": "Black",
+      "hair_color": "Reddish brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/bc838920-7849-43ea-bfb8-7d5e98dc20b6"
+    },
+    {
+      "id": "33f5fea9-c21b-490b-90e0-c4051c372826",
+      "image" : "https://i.pinimg.com/originals/e3/73/8d/e3738deaaf1c35e41c663baee2e80b5c.png",
+      "name": "Tombo",
+      "film" :"Porco Rosso",
+      "gender": "Male",
+      "age": "13",
+      "eye_color": "Black",
+      "hair_color": "Dirty Blond",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/33f5fea9-c21b-490b-90e0-c4051c372826"
+    },
+    {
+      "id": "d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa",
+      "image" : "https://64.media.tumblr.com/a1928616f1bfa1bd129faf187fce002f/325487a036b43833-63/s1280x1920/36a8f10c63955ae2bdcf932d51f7018ffac187ce.jpg",
+      "name": "Madame",
+      "film" : "Porco Rosso",
+      "gender": "Female",
+      "age": "60",
+      "eye_color": "Cyan",
+      "hair_color": "Light Gray",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/ea660b10-85c4-4ae3-8a5f-41cea3648e3e"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/d1de1c0e-3fcd-4cef-94eb-bb95cc2314aa"
+    },
+    {
+      "id": "2d66e2eb-5a74-4721-a5b3-c556497bdb66",
+      "image" : "https://www.ungeekencolombia.com/wp-content/uploads/2021/02/Earwig-and-the-Witch-1.jpg",
+      "name": "Earwig",
+      "film" : "Earwig and the Witch",
+      "gender": "Female",
+      "age": "10",
+      "eye_color": "Brown",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/790e0028-a31c-4626-a694-86b7a8cada40"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/2d66e2eb-5a74-4721-a5b3-c556497bdb66"
+    },
+    {
+      "id": "56c94dae-3290-472f-ad2e-0a6444956b51",
+      "image" : "https://cdn.vox-cdn.com/thumbor/MXXQC9o7f11Gd0P2fBOSsAjp4dE=/0x0:2500x1352/1200x0/filters:focal(0x0:2500x1352):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22271125/Bella.jpg",
+      "name": "Bella Yaga",
+      "gender": "Female",
+      "film" : "Earwig and the Witch",
+      "age": "NA",
+      "eye_color": "Brown",
+      "hair_color": "Blue",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/790e0028-a31c-4626-a694-86b7a8cada40"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/56c94dae-3290-472f-ad2e-0a6444956b51"
+    },
+    {
+      "id": "5caa6a3c-7d44-47d1-afc6-12fffad28889",
+      "image" : "https://64.media.tumblr.com/10be3260f1c289f6e4abd4c3b85d374f/db143213c0bce8ac-6d/s400x600/e97dc520e833a9a037c321474b515e000599d2e4.jpg",
+      "name": "Mandrake",
+      "gender": "Male",
+      "film" : "Earwig and the Witch",
+      "age": "NA",
+      "eye_color": "NA",
+      "hair_color": "Brown",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/790e0028-a31c-4626-a694-86b7a8cada40"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/5caa6a3c-7d44-47d1-afc6-12fffad28889"
+    },
+    {
+      "id": "374561e6-aa8e-4d20-8579-806e589c0f31",
+      "image" : "https://media.comicbook.com/2021/01/earwig-and-the-witch-1253579.jpeg?auto=webp",
+      "name": "Scarlet Rose",
+      "gender": "Female",
+      "film" : "Earwig and the Witch",
+      "age": "NA",
+      "eye_color": "Brown",
+      "hair_color": "Red",
+      "films": [
+        "https://ghibliapi.herokuapp.com/films/790e0028-a31c-4626-a694-86b7a8cada40"
+      ],
+      "species": "https://ghibliapi.herokuapp.com/species/af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+      "url": "https://ghibliapi.herokuapp.com/people/374561e6-aa8e-4d20-8579-806e589c0f31"
+    }
+  ]
